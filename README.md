@@ -1,6 +1,6 @@
 # 知識処理（Knowledge Processing）講義資料
 
-本リポジトリは、知識処理（Knowledge Processing）に関する講義資料を公開するものです。近年の人工知能研究において重要な役割を果たしている**知識グラフ（Knowledge Graph）**、**統計的知識表現**、および**知識表現学習（Knowledge Representation Learning）**を中心に解説します。
+本リポジトリは、知識処理（Knowledge Processing）に関する講義資料を公開するものです。近年の人工知能研究において重要な役割を果たしている知識グラフ（Knowledge Graph）、統計的知識表現、および知識表現学習（Knowledge Representation Learning）を中心に解説します。
 
 講義では、シンボリックAIと機械学習の両方の観点から知識の表現・推論手法を学び、知識グラフを活用した知識発見や推論技術について理解を深めます。
 
